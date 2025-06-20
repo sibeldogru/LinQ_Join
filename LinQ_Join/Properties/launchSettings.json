@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LinQ_Join": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
